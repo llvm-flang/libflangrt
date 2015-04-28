@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibflangStrings.a  CMakeFiles/libflangStrings.dir/Character.cpp.o
+/usr/bin/ranlib liblibflangStrings.a

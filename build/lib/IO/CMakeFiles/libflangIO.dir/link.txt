@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibflangIO.a  CMakeFiles/libflangIO.dir/Write.cpp.o
+/usr/bin/ranlib liblibflangIO.a

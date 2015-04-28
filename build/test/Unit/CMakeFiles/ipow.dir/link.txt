@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/ipow.dir/ipow.cpp.o  -o ipow -rdynamic ../../liblibflang.a 

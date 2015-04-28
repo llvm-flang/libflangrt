@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibflangNumerical.a  CMakeFiles/libflangNumerical.dir/Complex.cpp.o CMakeFiles/libflangNumerical.dir/Integer.cpp.o
+/usr/bin/ranlib liblibflangNumerical.a

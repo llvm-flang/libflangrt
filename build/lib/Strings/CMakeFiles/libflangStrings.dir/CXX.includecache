@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Libflang.h
+
+../include/Strings/Character.h
+stdint.h
+-
+Libflang.h
+../include/Strings/Libflang.h
+
+/home/jleidel/dev/working/flang-trunk/libflangrt-master/lib/Strings/Character.cpp
+cstdlib
+-
+cstring
+-
+Strings/Character.h
+/home/jleidel/dev/working/flang-trunk/libflangrt-master/lib/Strings/Strings/Character.h
+

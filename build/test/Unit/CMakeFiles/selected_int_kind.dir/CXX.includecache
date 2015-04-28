@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Core/Core.h
+Libflang.h
+../include/Core/Libflang.h
+stdint.h
+-
+
+../include/Libflang.h
+
+/home/jleidel/dev/working/flang-trunk/libflangrt-master/test/Unit/selected_int_kind.cpp
+assert.h
+-
+iostream
+-
+Core/Core.h
+/home/jleidel/dev/working/flang-trunk/libflangrt-master/test/Unit/Core/Core.h
+

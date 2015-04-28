@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibflangCore.a  CMakeFiles/libflangCore.dir/Core.cpp.o
+/usr/bin/ranlib liblibflangCore.a
